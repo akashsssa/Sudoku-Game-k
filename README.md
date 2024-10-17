@@ -1,8 +1,7 @@
 # Sudoku Game
 
 ## Overview
-This Python-based Sudoku game provides a graphical interface using Pygame. Users can solve the Sudoku puzzle manually or allow the computer to solve it. The interface supports selecting cells, entering numbers, and validating the solution.
-
+This Python-based Sudoku game provides a graphical interface using Pygame. Users can solve the Sudoku puzzle manually or allow the computer to solve it. The interface supports selecting cells, entering numbers, and validating the s
 ## Features
 - Interactive GUI for playing Sudoku
 - Manual entry of numbers
